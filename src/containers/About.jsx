@@ -39,7 +39,7 @@ const About = () => {
       {/*content section*/}
       <div className="w-full px-8 flex flex-col gap-4 items-start justify-start">
         <p className="text-texlight text-base tracking-wide text-justify">
-          Hello, I'm Sanket Bhausaheb Walunj From pune .i have done my BE from aissms college of engineering pune . i have secured 8.13 CGPA in BE. i have done 10 days national level camp and work as a deparment coordinator for NSS and UBA .
+          Hello, I'm Sanket Bhausaheb Walunj From pune. Working as a SDE At RBK Payment Ltd. i have done my BE from aissms college of engineering pune . i have secured 8.13 CGPA in BE. i have done 10 days national level camp and work as a deparment coordinator for NSS and UBA .
         </p>
         <p className="text-texlight text-base tracking-wide text-justify">
           I have interest in mern stack devlopment .and also in  devops engineering i have done certain projects on it also as a freelancer i have  done  above 5 projects in mern stack as well as wordpress .
